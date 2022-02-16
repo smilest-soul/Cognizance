@@ -1,0 +1,37 @@
+This program will allow the user to get Nth number of Fibonacci series.
+
+
+
+Declare Integer Previous, Present, a, Number, b
+
+Input number
+Assign
+a=1
+Present=1
+Previous=1
+
+
+
+using For loop
+a=1 to b
+
+
+
+If a less than or equal to 1
+Next = a
+
+
+flase
+
+Assign
+b= Present + Previous
+Present= Previous
+Previous= b
+
+
+
+END
+
+
+
+print respone b.

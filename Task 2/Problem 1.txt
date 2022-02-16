@@ -1,0 +1,26 @@
+This program will allow the user to check the number whether it's divisible by 3 or not
+
+
+
+Declare integers
+a, reminder, sum, n
+enter number
+assign
+n=a
+assign
+sum=0
+while
+n is not equal to 0
+assign
+reminder = n modulus 10
+assign
+sum = sum+reminder
+assign
+n= n divided by 10
+stop the while loop
+if "sum modulus 3 equals to 0"
+print response
+"True"
+if "sum modulus 3 not equals to 0"
+print respone
+"False"
