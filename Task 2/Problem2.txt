@@ -1,37 +1,26 @@
-This program will allow the user to get Nth number of Fibonacci series.
+This program prints Nth fibonacci number.
 
 
 
-Declare Integer Previous, Present, a, Number, b
-
-Input number
-Assign
-a=1
-Present=1
-Previous=1
-
-
-
-using For loop
-a=1 to b
-
-
-
-If a less than or equal to 1
-Next = a
-
-
-flase
-
-Assign
-b= Present + Previous
-Present= Previous
-Previous= b
-
-
-
+Function Main
+DECLARE Integer number
+OUTPUT "Enter the value of number: "
+INPUT number
+CALL Fibonacci(number)
 END
-
-
-
-print respone b.
+Function Fibonacci (Integer number)
+DECLARE INTEGER Present, Previous, b, a
+ASSIGN Present = 1
+ASSIGN Previous = 1
+ASSIGN a=1
+FOR a=1 to number-1
+IF a<=1
+TRUE
+ASSIGN b = 1
+FALSE
+ASSIGN b = Present + Previous
+ASSIGN Present = Previous
+ASSIGN Previous = b
+END IF
+PRINT RESPONE b
+END
