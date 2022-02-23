@@ -1,0 +1,5 @@
+print('Enter your two numbers')
+S=input('Enter a number:')
+P=input('Enter a number:')
+sum=int(P)+int(S)
+print(sum)
