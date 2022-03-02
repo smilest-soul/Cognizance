@@ -31,4 +31,4 @@
 
 * We never use any Chemicals.
 
-* We never sell any of our products to sellers, we sell directly to our Customers.
+* We never sell any of our products to any distributors, we sell directly to our Customers.
