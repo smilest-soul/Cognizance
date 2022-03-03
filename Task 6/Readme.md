@@ -35,6 +35,6 @@
 
 ***
 You can see my presentation video here ↓↓
-[![]([![Task 6](https://res.cloudinary.com/marcomontalbano/image/upload/v1646315543/video_to_markdown/images/youtube--Kqr00kYd3Ik-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=Kqr00kYd3Ik "Task 6") "")]
+([![Task 6](https://res.cloudinary.com/marcomontalbano/image/upload/v1646315543/video_to_markdown/images/youtube--Kqr00kYd3Ik-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=Kqr00kYd3Ik "Task 6") 
 
 
